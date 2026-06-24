@@ -3,7 +3,8 @@
     "header": {
       "titolo": "Race annuale - Epic Race",
       "sub-msg": "Classifica basata sui <strong> migliori 15 risultati </strong> ottenuti nei tornei TPRA durante la stagione sportiva corrente. Non include sfide né tornei sociali.",
-      "sub-msg-link": "Art. 15 — Regolamento TPRA"
+      "sub-msg-reg": "Art. 15 — Regolamento TPRA",
+      "sub-msg-link": "/regolamenti"
     },
     "filters": {
       "cerca": "Avvia la ricerca",
