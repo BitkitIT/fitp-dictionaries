@@ -1,0 +1,22 @@
+{
+  "classifiche": {
+    "raceAnnuale": {
+      "titolo": "Race annuale",
+      "testo": "Classifica costruita sui risultati ottenuti nella stagione sportiva in corso."
+    },
+    "classificaNazionale": {
+      "titolo": "Classifica nazionale",
+      "testo": "Classifica complessiva aggiornata in base ai risultati validi del giocatore."
+    }
+  },
+  "tornei": {
+    "iscrizione": {
+      "titolo": "Iscrizione torneo",
+      "testo": "Le iscrizioni restano aperte fino alla data indicata nella scheda del torneo."
+    },
+    "campionato": {
+      "titolo": "Campionato a squadre",
+      "testo": "Competizione a squadre con calendario, gironi e fasi finali."
+    }
+  }
+}

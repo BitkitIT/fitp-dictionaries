@@ -1,0 +1,64 @@
+{
+  "puntiFinale": {
+    "titolo": "PUNTI FINALE",
+    "paragrafi": [
+      "I punti assegnati per la vittoria del torneo o il raggiungimento della finale si sommano al Power Puntuale della singola partita.",
+      "Dalla ventesima partita stagionale in poi, il Power personale viene stabilizzato dalla media dei Power Puntuali accumulati dall'inizio della stagione."
+    ]
+  },
+  "adeguamento": {
+    "titolo": "ADEGUAMENTO PER INATTIVITA",
+    "paragrafi": [
+      "In caso di inattivita, il Power Puntuale del giocatore puo diminuire automaticamente dopo periodi prolungati senza partite.",
+      "L'impatto sul Power Finale Medio dipende dal numero di partite giocate nella stagione."
+    ]
+  },
+  "powerFinaleMedio": {
+    "titolo": "DAL POWER PUNTUALE AL POWER FINALE MEDIO",
+    "paragrafi": [
+      "Il Power Puntuale deriva dalle ultime partite disputate.",
+      "Con l'aumentare del numero di partite, il Power Finale Medio diventa progressivamente piu stabile."
+    ]
+  },
+  "powerSingolo": {
+    "titolo": "POWER SINGOLO 1 E 2",
+    "descrizione": "Il Power Singolo riguarda solo le partite di singolare ed e indipendente dal Power Doppio.",
+    "voci": [
+      {
+        "label": "POWER SINGOLO 1",
+        "testo": "Power medio del giocatore 1 prima dell'incontro."
+      },
+      {
+        "label": "POWER SINGOLO 2",
+        "testo": "Power medio del giocatore 2 prima dell'incontro."
+      },
+      {
+        "label": "POWER FINALE MEDIO",
+        "testo": "Valore aggiornato del giocatore dopo l'incontro."
+      }
+    ]
+  },
+  "powerDoppio": {
+    "titolo": "POWER DOPPIO",
+    "descrizione": "Il Power Doppio riguarda solo le partite di doppio ed e indipendente dal Power Singolo.",
+    "voci": [
+      {
+        "label": "POWER DOPPIO 1",
+        "testo": "Power medio del giocatore 1 della coppia 1."
+      },
+      {
+        "label": "POWER DOPPIO 2",
+        "testo": "Power medio del giocatore 2 della coppia 1."
+      },
+      {
+        "label": "POWER DOPPIO 3",
+        "testo": "Power medio del giocatore 1 della coppia 2."
+      },
+      {
+        "label": "POWER DOPPIO 4",
+        "testo": "Power medio del giocatore 2 della coppia 2."
+      }
+    ],
+    "notaFinale": "Nel doppio, la variazione del Power dipende sempre anche dal livello del compagno."
+  }
+}

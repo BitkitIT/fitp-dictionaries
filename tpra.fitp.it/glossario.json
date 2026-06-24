@@ -1,0 +1,14 @@
+{
+  "power": {
+    "termine": "Power",
+    "definizione": "Indicatore sintetico del livello del giocatore, aggiornato in base ai risultati."
+  },
+  "pfm": {
+    "termine": "Power Finale Medio",
+    "definizione": "Valore medio finale utilizzato per rappresentare in modo piu stabile il rendimento del giocatore."
+  },
+  "adeguamento": {
+    "termine": "Adeguamento",
+    "definizione": "Correzione applicata al valore del giocatore in casi specifici, come inattivita o regole di sistema."
+  }
+}
