@@ -1,0 +1,78 @@
+{
+  "race": {
+    "header": {
+      "titolo": "Race annuale - Epic Race",
+      "sub-msg": "Classifica basata sui <strong> migliori 15 risultati </strong> ottenuti nei tornei TPRA durante la stagione sportiva corrente. Non include sfide né tornei sociali.",
+      "sub-msg-link": "Art. 15 — Regolamento TPRA"
+    },
+    "filters": {
+      "cerca": "Avvia la ricerca",
+      "stampa": "Stampa Classifica"
+    },
+    "tabella": {
+      "headers": {
+        "giocatore": "GIOCATORE",
+        "pwr": "POWER",
+        "pwr-padel": "FASCIA",
+        "pts": "PUNTI RACE",
+        "tornei": "TORNEI",
+        "vitt": "VITTORIE",
+        "sconfit": "SCONFITTE",
+        "perc-vinte": "% VINTE",
+        "delta-pwr": "ΔPower"
+      },
+      "power-card": {
+        "titolo": "POWER PER DISCIPLINA",
+        "errore": "Power non disponibili"
+      },
+      "ultimi-game": {
+        "titolo": "Ultime Partite",
+        "data": "Data",
+        "avversario": "Avversario",
+        "ris": "Risultato",
+        "pts": "Punti",
+        "errore": "Nessuna partita recente"
+      },
+      "scheda": "Scheda completa",
+      "carica-altro": "CARICA ALTRO"
+    }
+  },
+  "nazionale": {
+    "header": {
+      "titolo": "Classifica Nazionale",
+      "sub-msg": "Classifica basata sui <strong>migliori 15 risultati</strong> ottenuti nei tornei di singolare e a squadre negli <strong>ultimi 12 mesi</strong>. \n I punti ottenuti in ogni torneo sono validi per 12 mesi, trascorsi i quali decadono.",
+      "sub-msg-link": "Art. 15 — Regolamento TPRA"
+    },
+    "filters": {
+      "cerca": "Avvia la ricerca",
+      "stampa": "Stampa Classifica"
+    },
+    "tabella": {
+      "headers": {
+        "giocatore": "GIOCATORE",
+        "pwr": "POWER",
+        "pwr-padel": "FASCIA",
+        "pts": "PUNTI RACE",
+        "tornei": "TORNEI",
+        "vitt": "VITTORIE",
+        "sconfit": "SCONFITTE",
+        "perc-vinte": "% VINTE",
+        "delta-pwr": "ΔPower"
+      },
+      "power-card": {
+        "titolo": "POWER PER DISCIPLINA",
+        "errore": "Power non disponibili"
+      },
+      "ultimi-game": {
+        "titolo": "Ultime Partite",
+        "data": "Data",
+        "avversario": "Avversario",
+        "ris": "Risultato",
+        "pts": "Punti",
+        "errore": "Nessuna partita recente"
+      },
+      "scheda": "Scheda completa",
+      "carica-altro": "CARICA ALTRO"
+    }
+  }
+}
