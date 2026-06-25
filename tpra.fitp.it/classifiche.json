@@ -6,7 +6,7 @@
       "sub-msg-reg": "Art. 15 — Regolamento TPRA",
       "sub-msg-link": "/regolamenti"
     },
-      "tabella": {
+    "tabella": {
       "headers": {
         "giocatore": "GIOCATORE",
         "pwr": "POWER",
@@ -16,7 +16,16 @@
         "vitt": "VITTORIE",
         "sconfit": "SCONFITTE",
         "perc-vinte": "% VINTE",
-        "delta-pwr": "ΔPower"
+        "delta-pwr": "ΔPower",
+        "tooltips": {
+          "power": "Valore numerico 9–99 che misura il livello di gioco (Art. 3). Power Singolare e Power Doppio sono indipendenti. Il tipo visualizzato dipende dalla disciplina selezionata nel filtro.",
+          "pts": "Punti accumulati nella Race Annuale partecipando ai tornei TPRA 1000/1500/2000 della stagione",
+          "tornei": "Numero di tornei ufficiali TPRA disputati nella stagione in corso",
+          "vittorie": "Incontri vinti nel corso della stagione",
+          "sconfitte": "Incontri persi nel corso della stagione",
+          "perc-vinte": "Percentuale di incontri vinti sul totale degli incontri giocati",
+          "delta-pwr": "Variazione del Power rispetto all'ultima rilevazione. Diminuzione di -5 ogni 6 mesi di inattività (max -10)"
+        }
       },
       "power-card": {
         "titolo": "POWER PER DISCIPLINA",
@@ -50,7 +59,16 @@
         "vitt": "VITTORIE",
         "sconfit": "SCONFITTE",
         "perc-vinte": "% VINTE",
-        "delta-pwr": "ΔPower"
+        "delta-pwr": "ΔPower",
+        "tooltip": {
+          "power": "Valore numerico 9–99 che misura il livello di gioco (Art. 3). Power Singolare e Power Doppio sono indipendenti. Il tipo visualizzato dipende dalla disciplina selezionata nel filtro.",
+          "pts": "Punti totali accumulati nella Classifica Nazionale. Calcolati sui migliori 15 risultati ottenuti nei tornei di singolare e a squadre negli ultimi 12 mesi. I punti decadono trascorsi 12 mesi dall'ottenimento (Art. 15).",
+          "tornei": "Numero di tornei ufficiali TPRA disputati negli ultimi 12 mesi",
+          "vittorie": "Vittorie: incontri vinti negli ultimi 12 mesi",
+          "sconfitte": "Sconfitte: incontri persi negli ultimi 12 mesi",
+          "perc-vinte": "Percentuale di incontri vinti sul totale degli incontri giocati negli ultimi 12 mesi",
+          "delta-pwr": "Variazione del Power rispetto all'ultima rilevazione. Diminuzione di -5 ogni 6 mesi di inattività (max -10, Art. 3)"
+        }
       },
       "power-card": {
         "titolo": "POWER PER DISCIPLINA",
