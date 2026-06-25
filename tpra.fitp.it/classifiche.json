@@ -60,7 +60,7 @@
         "sconfit": "SCONFITTE",
         "perc-vinte": "% VINTE",
         "delta-pwr": "ΔPower",
-        "tooltip": {
+        "tooltips": {
           "power": "Valore numerico 9–99 che misura il livello di gioco (Art. 3). Power Singolare e Power Doppio sono indipendenti. Il tipo visualizzato dipende dalla disciplina selezionata nel filtro.",
           "pts": "Punti totali accumulati nella Classifica Nazionale. Calcolati sui migliori 15 risultati ottenuti nei tornei di singolare e a squadre negli ultimi 12 mesi. I punti decadono trascorsi 12 mesi dall'ottenimento (Art. 15).",
           "tornei": "Numero di tornei ufficiali TPRA disputati negli ultimi 12 mesi",
